@@ -12,6 +12,9 @@
 <img src="https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-zomato-clone/assets/129877176/69901a3d-90e9-4abe-943c-02cb8893b33b" />
 </p>
 
+#### 🔴 Server Code
+- ##### [!Express Server Link](https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-zomato-clone-backend)
+
 ## :camera: Screenshots
 
 #### <p align="center">Zomato Home Screen</p>
