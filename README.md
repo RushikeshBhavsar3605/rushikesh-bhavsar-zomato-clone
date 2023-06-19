@@ -9,7 +9,7 @@
 ## :star: Hosted Project
 #### 🔴 Open the camera app on your device and scan the code below (live demo)
 <p align="center">
-<img src="https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-zomato-clone/assets/129877176/5ac91d4d-eec3-48a7-9a78-ef558cbc2cbb" />
+<img src="https://github.com/RushikeshBhavsar3605/rushikesh-bhavsar-zomato-clone/assets/129877176/90056016-548e-4997-9ff1-2b4fe14b0630" width="500" />
 </p>
 
 #### 🔴 Server Code
